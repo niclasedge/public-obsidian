@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/150 Python libraries.md",
+            "file": "LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/150 Python libraries.md",
+                "file": "LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "29acdab10ed7b4b6",
   "lastOpenFiles": [
+    "LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld.md",
+    "FISI.md",
     "python/150 Python libraries.md",
     "python/100 Hyperskill Python.md",
     "python/7 different graphing Libraries for Python.md",
@@ -96,8 +98,6 @@
     "python/01 Python Basics.md",
     "python/Automate youtube to Spotify with Python - YouTube.md",
     "python/Buch - 54 - Einfache Anwendungen in Python implementieren.md",
-    "python/Build A Dashboard In Python – Plotly Dash Step-by-step.md",
-    "python/cisco - Programming Essentials In Python (PCAP).md",
-    "python/connect to packet tracer via python.md"
+    "python/Build A Dashboard In Python – Plotly Dash Step-by-step.md"
   ]
 }
