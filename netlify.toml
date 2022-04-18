@@ -8,7 +8,7 @@ LANDING_BUTTON = "FISI Übersicht👆"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = ""
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "fisi"
+LANDING_PAGE = "https://subtle-eclair-015c87.netlify.app/docs/fisi"
 # (Optional) Site title on landing page
 LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
