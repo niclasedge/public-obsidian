@@ -4,24 +4,24 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "FISI Übersicht👆"
+LANDING_BUTTON = "Click to steal some👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = ""
+LANDING_DESCRIPTION = "I have nothing but intelligence."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "https://subtle-eclair-015c87.netlify.app/docs/fisi"
+LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = ""
+LANDING_TITLE = "I love obsidian-zola! 💖"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/niclasedge/public-obsidian"
 # (Optional) Site title in navbar
-SITE_TITLE = "FISI's Second 🧠"
+SITE_TITLE = "Someone's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://subtle-eclair-015c87.netlify.app"
 # (Optional) Site Timezone
-TIMEZONE = "Germany/Berlin"
+TIMEZONE = "Europe/Berlin"
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
@@ -35,6 +35,9 @@ HOME_GRAPH = "y"
 PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
+
+
+
 
 [[plugins]]
 package = "netlify-plugin-submit-sitemap"

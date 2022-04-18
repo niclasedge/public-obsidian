@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld (GOTT) x3 d4aefa2016c645cfb8acaf63b2407243/Aufgabe_Betriebliche Kennzahlen.md",
-            "mode": "preview",
+            "file": "FISI.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld (GOTT) x3 d4aefa2016c645cfb8acaf63b2407243/Aufgabe_Betriebliche Kennzahlen.md",
+                "file": "FISI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3c044b3294862dc6",
   "lastOpenFiles": [
-    "LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld (GOTT) x3 d4aefa2016c645cfb8acaf63b2407243/Aufgabe_Betriebliche Kennzahlen.md",
-    "LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld.md",
-    "LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld (GOTT) x3 d4aefa2016c645cfb8acaf63b2407243/LF_01-_Betrieb_und_sein_Umfeld.pdf",
-    "Referenz/Stundenplan+Notizen/Fächer 69924945113d4f05aa161a69903bf2a7/LF01 - Betrieb und sein Umfeld (GOTT) x3 d4aefa2016c645cfb8acaf63b2407243/Aufgabe_Betriebliche Kennzahlen 2cc39af3b0cb446c9c2bb7a90cb9e239/Untitled.png.md",
-    "LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld (GOTT) x3 d4aefa2016c645cfb8acaf63b2407243/Kanban Scrum Beispiel.md",
     "FISI.md",
-    "python/150 Python libraries.md",
-    "python/100 Hyperskill Python.md",
-    "python/7 different graphing Libraries for Python.md",
-    "python/5 Powerful Functions in Python. Must know functions in Python explained.md"
+    "LF7/LF07 - Cyber-physische Systeme ergänzen.md",
+    "LF8/LF08 - Anwendungsentwicklung.md",
+    "LF8/LF08 -- Aufgabe  Rennwagen.md",
+    "LF8/LF08 -- Aufgabe Inventar.md",
+    "LF8/LF08 -- Beziehung zwischen Klassen.md",
+    "LF8/LF08 -- Eigenschaften.md",
+    "LF8/LF08 -- Einführung in die Objektorientierte Programmierung (OOP).md",
+    "LF8/LF08 -- Konstruktoren.md",
+    "LF5/LF05 - Programmieren/Jupyter Notebook.md"
   ]
 }

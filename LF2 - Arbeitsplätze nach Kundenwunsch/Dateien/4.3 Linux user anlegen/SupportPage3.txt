@@ -1,0 +1,46 @@
+﻿#Support Page3 Benutzer und Gruppen
+
+Standardbenutzer bei Debian live: user   PW: live
+Admin / Root user                 root   PW: -
+
+Wechsel zu root (bei debian live): 	$ sudo su root 
+Wechsel zur vorherigen Session:		$ exit
+
+Anlegen eines neuen Benutzers <misterX> mit standard Home Verzeichnis /home/misterX und interaktiver Dateneingabe
+	$sudo adduser misterx
+mit abweichendem Home Verzeichnis:
+	$sudo adduser --home /home/007/misterx misterx
+mit abweichener Primärgruppe:		
+	$sudo adduser --ingroup geheimagenten misterx
+
+Bei der Skriptverarbeitung ist die interaktive Dateneingabe nicht hilfreich. 
+so kann man sie umgehen: 	
+	$sudo adduser misterx -gecos "" --disabled-password
+	und das PW nachträglich setzen: 
+	$sudo echo "misterx:123456" | chpasswd	
+	
+Nachträglich Primärgruppe ändern:	$sudo usermod -g geheimagenten mistery
+oder das Home Verzeichnis:		
+	$sudo usermod -d /home/007/misterx misterx
+oder den Login-Namen:			$sudo usermod -l misterx missx
+
+Anlegen einer neuen Gruppe:		$sudo addgroup geheimagenten
+
+Existierenden Benutzer zusätzlich einer existierenden Gruppe zuordnen:
+	$sudo adduser misterx mi6
+oder gleich mehreren			
+	$sudo usermod -aG mi6,geheimagenten,golfspieler misterx
+
+Neben den Kommandos adduser und addgroup existeren die älteren Kommandos groupadd, useradd. Diese sind allerdings weniger komfortabel bei der Eingabe, da bestimmte Systemparameter nicht automatisch berücksichtigt werden.
+
+Testen:
+Anzeige der Gruppen eines Users:	$groups misterx
+und der entsprechenden uid, gid:	$id misterx
+
+Anzeigen der Gruppen im System:		$cat /etc/group
+Anzeigen der User im System mit home directory und login shell:	
+					$cat /etc/passwd
+
+Rolle bzw. User wechseln:		$su misterx
+Ins Home Verzeichnis wechseln:		$cd ~
+

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B0ABE5BD-08FD-44F6-BE0F-B233786B21F7}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Schueler.cs" />
+      <File FileName="Start.cs" />
+      <File FileName="App.config" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.B__Schueler__V1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
