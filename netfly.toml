@@ -19,7 +19,7 @@ SITE_TITLE = "Niclas's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = ""
+SITE_URL = "https://subtle-eclair-015c87.netlify.app/"
 # (Optional) Site Timezone
 TIMEZONE = "Germany/Berlin"
 ZOLA_VERSION = "0.15.2"
@@ -35,3 +35,24 @@ HOME_GRAPH = "y"
 PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
+
+[[plugins]]
+package = "netlify-plugin-submit-sitemap"
+
+[plugins.inputs]
+
+# The base url of your site (optional, default = main URL set in Netlify)
+baseUrl = "https://subtle-eclair-015c87.netlify.app/"
+
+# Path to the sitemap URL (optional, default = /sitemap.xml)
+sitemapPath = "/sitemap.xml"
+
+# Time in seconds to not submit the sitemap after successful submission
+ignorePeriod = 0
+
+# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
+providers = [
+  "google",
+  "bing",
+  "yandex",
+]
