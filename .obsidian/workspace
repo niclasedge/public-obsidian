@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "2147156381094eac",
+    "type": "split",
+    "children": [
+      {
+        "id": "29acdab10ed7b4b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "python/150 Python libraries.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "757a5a5a0f0526c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "056a8be6f759865a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90a50450801af4e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "70415d42eec2c6e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4f0fb728cce180d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ef9c830594dcde1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c6b48861b73f14c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/150 Python libraries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "29acdab10ed7b4b6",
+  "lastOpenFiles": [
+    "python/150 Python libraries.md",
+    "python/100 Hyperskill Python.md",
+    "python/7 different graphing Libraries for Python.md",
+    "python/5 Powerful Functions in Python. Must know functions in Python explained.md",
+    "python/01 Python Basics.md",
+    "python/Automate youtube to Spotify with Python - YouTube.md",
+    "python/Buch - 54 - Einfache Anwendungen in Python implementieren.md",
+    "python/Build A Dashboard In Python – Plotly Dash Step-by-step.md",
+    "python/cisco - Programming Essentials In Python (PCAP).md",
+    "python/connect to packet tracer via python.md"
+  ]
+}
