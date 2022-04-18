@@ -12,9 +12,9 @@ Reference:
     - Das Verhältnis von mengenmäß9ger Ausbringung zum mengenmäßigen Einsatz von Produktionsfaktoren.
 2. Ein Unternehmen beschäftigt 300 Arbeitskräfte und stellt im Jahr 200.000 Stück eines Produktes her, das zum Preis von 100€ pro stück verkauft wird. Die jährlichen Gesammtkosten betragen 10.000.000€
     - Berechnen Sie die Produktivität einer Arbeitskraft im Jahr
+![[LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld (GOTT) x3 d4aefa2016c645cfb8acaf63b2407243/Aufgabe_Betriebliche Kennzahlen 2cc39af3b0cb446c9c2bb7a90cb9e239/Untitled.png]]
 
-        ![Aufgabe_Betriebliche%20Kennzahlen%202cc39af3b0cb446c9c2bb7a90cb9e239/Untitled.png](Referenz/Stundenplan+Notizen/Fächer%2069924945113d4f05aa161a69903bf2a7/LF01%20-%20Betrieb%20und%20sein%20Umfeld%20(GOTT)%20x3%20d4aefa2016c645cfb8acaf63b2407243/Aufgabe_Betriebliche%20Kennzahlen%202cc39af3b0cb446c9c2bb7a90cb9e239/Untitled.png)
-
+![[LF1 - Betrieb nach Kundenwunsch/LF01 - Betrieb und sein Umfeld (GOTT) x3 d4aefa2016c645cfb8acaf63b2407243/Aufgabe_Betriebliche Kennzahlen 2cc39af3b0cb446c9c2bb7a90cb9e239/Untitled 1.png]]
         - 10.000.000€/200.000=50€
         - gewinn pro stück=50€
         - 200.000/300=666
